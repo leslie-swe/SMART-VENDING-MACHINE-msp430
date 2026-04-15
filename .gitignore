@@ -1,0 +1,12 @@
+# Carpetas de compilación de CCS
+Debug/
+Release/
+
+# Configuraciones de lanzamiento local
+.launches/
+
+# Archivos binarios y mapas de memoria generados al compilar
+*.out
+*.map
+*.hex
+*.bin
